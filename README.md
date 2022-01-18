@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elemequil
 - 👀 I’m interested in becoming code literate.
 - 🌱 I’m currently learning from scratch, with zero coding knowledge.
-- 💞️ I’m looking to collaborate on tweaks to the Windows UX, such as toggle between left/right-handed mouse with one hotkey. 
+- 💞️ I’m looking to collaborate on tweaks to the Windows UX, starting with a hotkey toggle between left/right-handed mouse settings. 
 - 📫 How to reach me : elemequil@gmail.com
 
 <!---
